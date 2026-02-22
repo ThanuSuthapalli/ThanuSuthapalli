@@ -1,6 +1,5 @@
 # 🚀 Thanu Suthapalli
 
-::: {align="center"}
 ### 💻 Full Stack Developer \| 🎨 Creative Designer \| 📈 Digital Strategist
 
 ![Profile
